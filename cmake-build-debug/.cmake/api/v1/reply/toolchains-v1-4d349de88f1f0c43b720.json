@@ -1,0 +1,88 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include",
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/include",
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include-fixed",
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/x86_64-w64-mingw32/include",
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/include/c++/5.3.0",
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/include/c++/5.3.0/x86_64-w64-mingw32",
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/include/c++/5.3.0/backward"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0",
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/lib/gcc",
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/x86_64-w64-mingw32/lib",
+						"C:/Users/kenic/anaconda3/Library/mingw-w64/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/Users/kenic/anaconda3/Library/mingw-w64/bin/c++.exe",
+				"version" : "5.3.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/Users/kenic/anaconda3/Library/mingw-w64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

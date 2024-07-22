@@ -1,0 +1,3 @@
+C:/Users/kenic/CLionProjects/BreakOut/cmake-build-debug/CMakeFiles/BreakOut.dir
+C:/Users/kenic/CLionProjects/BreakOut/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kenic/CLionProjects/BreakOut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
